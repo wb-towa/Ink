@@ -3,3 +3,6 @@
 /.build
 /.swiftpm
 /*.xcodeproj
+
+# server's sudo installer script
+install-on-lwb.sh
